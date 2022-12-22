@@ -10,7 +10,7 @@ namespace TestProject2._1
         {
         }
 
-        private static void GivenHAPPYMoodShouldReturnHAPPY(string message)
+        private static void ExceptionNull(string message)
         {
             // Arrange
             string expected = "HAPPY";
