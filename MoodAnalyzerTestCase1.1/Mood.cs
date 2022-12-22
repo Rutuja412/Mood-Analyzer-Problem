@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Net;
 using System.Text;
 
-namespace MoodAnalyzerTC1._1
+namespace MoodAnalyzerTestCase1._1
 {
     public class Mood
     {
@@ -21,5 +20,4 @@ namespace MoodAnalyzerTC1._1
                 return "Happy";
             }
         }
-    }
-}
+    }   }
