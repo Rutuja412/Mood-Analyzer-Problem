@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC3.1-MoodAnalysisException", "TC3.1-MoodAnalysisException.csproj", "{206FBBE4-2A09-4C28-BCAC-C5E1DE440D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMethod TC3.1", "..\TestMethod TC3.1\TestMethod TC3.1.csproj", "{50FCD39A-8640-4C8E-A385-3DAEE506E579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206FBBE4-2A09-4C28-BCAC-C5E1DE440D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206FBBE4-2A09-4C28-BCAC-C5E1DE440D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206FBBE4-2A09-4C28-BCAC-C5E1DE440D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206FBBE4-2A09-4C28-BCAC-C5E1DE440D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FCD39A-8640-4C8E-A385-3DAEE506E579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FCD39A-8640-4C8E-A385-3DAEE506E579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FCD39A-8640-4C8E-A385-3DAEE506E579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FCD39A-8640-4C8E-A385-3DAEE506E579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1746F325-F53D-44A0-8AD9-E66AD7D3C63F}
+	EndGlobalSection
+EndGlobal
